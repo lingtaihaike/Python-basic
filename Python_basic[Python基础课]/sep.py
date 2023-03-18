@@ -1,6 +1,7 @@
 
 
 
-a = 'woai'
+a = 'woai '
 b = 'zhongguo'
-print(a+b)
+c = ' ai gang jing ye'
+print(a+b+c)
