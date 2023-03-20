@@ -1,0 +1,20 @@
+Index: Python_basic[Python基础课]/sep.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\n\n\na = 'woai'\nb = 'zhongguo'\nprint(a+b)
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Python_basic[Python基础课]/sep.py b/Python_basic[Python基础课]/sep.py
+--- a/Python_basic[Python基础课]/sep.py	(revision 13ce9ee2b3d1d4671136675ae460acdcc0335517)
++++ b/Python_basic[Python基础课]/sep.py	(date 1679134032847)
+@@ -3,4 +3,6 @@
+ 
+ a = 'woai'
+ b = 'zhongguo'
+-print(a+b)
+\ No newline at end of file
++c = 'aidangjingye'
++d = 'ailaopo'
++print(a+b+c)
+\ No newline at end of file
