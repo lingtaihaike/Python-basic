@@ -3,6 +3,10 @@ str1 = 'Port-channel1.189      192.168.189.254    YES     CONFIG    up'
 
 re_result = re.match('^([A-Z]\S+\d)\s+(\d{1,3}.\d{1,3}.\d{1,3}.\d{1,3})\s+YES     CONFIG\s+(\w+)$', str1).groups()
 
+# pattern = r'\s+'
+# split_list = re.split(pattern, str1)
+# print(split_list)
+
 if_name = re_result[0]
 if_add = re_result[1]
 if_status = re_result[2]
