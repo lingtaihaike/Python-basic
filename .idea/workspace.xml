@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e26b258-1488-4ecf-a4e5-338ff872c548" name="commit1" comment="commit6">
-      <change afterPath="$PROJECT_DIR$/Python_basic[Python基础课]/Day4_homework/Network_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2e26b258-1488-4ecf-a4e5-338ff872c548" name="commit1" comment="commit7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -315,7 +312,7 @@
       <workItem from="1679369035844" duration="48000" />
       <workItem from="1679389876228" duration="54000" />
       <workItem from="1679395548517" duration="598000" />
-      <workItem from="1679443705861" duration="8231000" />
+      <workItem from="1679443705861" duration="8493000" />
     </task>
     <task id="LOCAL-00001" summary="commit1">
       <created>1679135051511</created>
@@ -373,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679368965003</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit7">
+      <created>1679452576038</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679452576038</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +408,8 @@
     <MESSAGE value="commit4" />
     <MESSAGE value="commit5" />
     <MESSAGE value="commit6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit6" />
+    <MESSAGE value="commit7" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit7" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_basic$RE_2.coverage" NAME="RE_2 Coverage Results" MODIFIED="1679389881661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day3_homework" />
