@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e26b258-1488-4ecf-a4e5-338ff872c548" name="commit1" comment="commit7">
-      <change afterPath="$PROJECT_DIR$/Python_basic[Python基础课]/Day5_homework/list_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_basic[Python基础课]/Day5_homework/route-n.py" afterDir="false" />
+    <list default="true" id="2e26b258-1488-4ecf-a4e5-338ff872c548" name="commit1" comment="commit10">
+      <change afterPath="$PROJECT_DIR$/Python_basic[Python基础课]/Day7_homework/file_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_basic[Python基础课]/Day7_homework/os.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,21 +74,25 @@
     &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lingtaihaike/PycharmProjects/Python-basic/Python_basic[Python基础课]/Day6_homework&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python_basic[Python基础课]/Day6_homework" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Python_basic[Python基础课]/Day1-homework" />
       <recent name="$PROJECT_DIR$/Python_basic[Python基础课]" />
+      <recent name="$PROJECT_DIR$/Python_basic[Python基础课]/Day1-homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.route-n">
+  <component name="RunManager" selected="Python.file_control">
     <configuration name="Network_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RE_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_control" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,34 +123,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day3_homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day7_homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day3_homework/RE_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="list_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-basic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day5_homework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day5_homework/list_copy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day7_homework/file_control.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,6 +159,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="os" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day7_homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day7_homework/os.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pan" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,6 +195,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/pan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python sort lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day6_homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day6_homework/python sort lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,35 +247,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_format" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-basic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day2_homework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_basic[Python基础课]/Day2_homework/string_format.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.route-n" />
-        <item itemvalue="Python.list_copy" />
+        <item itemvalue="Python.file_control" />
+        <item itemvalue="Python.os" />
         <item itemvalue="Python.Network_info" />
-        <item itemvalue="Python.string_format" />
-        <item itemvalue="Python.RE_2" />
+        <item itemvalue="Python.route-n" />
+        <item itemvalue="Python.python sort lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +322,14 @@
       <workItem from="1679395548517" duration="598000" />
       <workItem from="1679443705861" duration="8493000" />
       <workItem from="1679474360469" duration="152000" />
-      <workItem from="1679529900683" duration="2435000" />
+      <workItem from="1679529900683" duration="2704000" />
+      <workItem from="1679532637509" duration="20000" />
+      <workItem from="1679550496899" duration="683000" />
+      <workItem from="1679551195289" duration="10282000" />
+      <workItem from="1679625278227" duration="7749000" />
+      <workItem from="1679796382970" duration="2304000" />
+      <workItem from="1679799071337" duration="7008000" />
+      <workItem from="1679878794665" duration="2734000" />
     </task>
     <task id="LOCAL-00001" summary="commit1">
       <created>1679135051511</created>
@@ -390,7 +401,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679474437684</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit8">
+      <created>1679532348575</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679532348575</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit9">
+      <created>1679532508113</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679532508113</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit10">
+      <created>1679632034228</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679632034229</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,12 +454,18 @@
     <MESSAGE value="commit5" />
     <MESSAGE value="commit6" />
     <MESSAGE value="commit7" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit7" />
+    <MESSAGE value="commit8" />
+    <MESSAGE value="commit9" />
+    <MESSAGE value="commit10" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit10" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_basic$RE_2.coverage" NAME="RE_2 Coverage Results" MODIFIED="1679389881661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day3_homework" />
+    <SUITE FILE_PATH="coverage/Python_basic$asa_dict.coverage" NAME="asa_dict 覆盖结果" MODIFIED="1679806031996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day6_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$pan.coverage" NAME="pan Coverage Results" MODIFIED="1675076053463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Python_basic$file_control.coverage" NAME="file_control 覆盖结果" MODIFIED="1679880533703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day7_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1675075495490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/Python_basic$python_sort_lambda.coverage" NAME="python sort lambda 覆盖结果" MODIFIED="1679808629818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day6_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$zouafadsdf.coverage" NAME="zouafadsdf Coverage Results" MODIFIED="1679275302365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]" />
     <SUITE FILE_PATH="coverage/Python_basic$re_jp.coverage" NAME="re_jp Coverage Results" MODIFIED="1679369052166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day2_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$Qytang_day.coverage" NAME="Qytang'day Coverage Results" MODIFIED="1679288205074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day2_homework" />
@@ -435,15 +473,16 @@
     <SUITE FILE_PATH="coverage/Python_basic$string_format.coverage" NAME="string_format Coverage Results" MODIFIED="1679449214928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day2_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$random_ip.coverage" NAME="random_ip Coverage Results" MODIFIED="1679275330424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_basic$test.coverage" NAME="test Coverage Results" MODIFIED="1679275308351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]" />
-    <SUITE FILE_PATH="coverage/Python_basic$Network_info.coverage" NAME="Network_info Coverage Results" MODIFIED="1679474458519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day4_homework" />
+    <SUITE FILE_PATH="coverage/Python_basic$python_sort_lambda_test.coverage" NAME="python sort lambda_test 覆盖结果" MODIFIED="1679801193467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day6_homework" />
+    <SUITE FILE_PATH="coverage/Python_basic$Network_info.coverage" NAME="Network_info 覆盖结果" MODIFIED="1679808650092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day4_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$random_ip__1_.coverage" NAME="random_ip (1) Coverage Results" MODIFIED="1679278731879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day1_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$game.coverage" NAME="game Coverage Results" MODIFIED="1679368944734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day2_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$main.coverage" NAME="main Coverage Results" MODIFIED="1673275254113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_basic$class2022_basic.coverage" NAME="class2022_basic Coverage Results" MODIFIED="1675068228352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
-    <SUITE FILE_PATH="coverage/Python_basic$list_copy.coverage" NAME="list_copy Coverage Results" MODIFIED="1679531891652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day5_homework" />
+    <SUITE FILE_PATH="coverage/Python_basic$list_copy.coverage" NAME="list_copy Coverage Results" MODIFIED="1679798341413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day5_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$zou__1_.coverage" NAME="zou (1) Coverage Results" MODIFIED="1675076267155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/Python_basic$zou.coverage" NAME="zou Coverage Results" MODIFIED="1675076164946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class/test" />
-    <SUITE FILE_PATH="coverage/Python_basic$route_n.coverage" NAME="route-n Coverage Results" MODIFIED="1679532065464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day5_homework" />
+    <SUITE FILE_PATH="coverage/Python_basic$route_n.coverage" NAME="route-n 覆盖结果" MODIFIED="1679808636359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day5_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$panadfa.coverage" NAME="panadfa Coverage Results" MODIFIED="1675076692388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/Python_basic$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1674906289723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/Python_basic$11111.coverage" NAME="1——1111 Coverage Results" MODIFIED="1679067632411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
@@ -451,6 +490,7 @@
     <SUITE FILE_PATH="coverage/Python_basic$sep.coverage" NAME="sep Coverage Results" MODIFIED="1679275313737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/Python_basic$sub_word.coverage" NAME="sub_word Coverage Results" MODIFIED="1679369066739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day2_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$RE_1.coverage" NAME="RE_1 Coverage Results" MODIFIED="1679369071439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day3_homework" />
+    <SUITE FILE_PATH="coverage/Python_basic$os.coverage" NAME="os 覆盖结果" MODIFIED="1679880526393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day7_homework" />
     <SUITE FILE_PATH="coverage/Python_basic$class2022_manager.coverage" NAME="class2022_manager Coverage Results" MODIFIED="1674906478433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/Python_basic$Python_Firest.coverage" NAME="Python_Firest Coverage Results" MODIFIED="1679275797950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_basic[Python基础课]/Day1_homework" />
   </component>
